@@ -1,7 +1,6 @@
-== README
+== Ruby on Rails First App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the first application made in RoR by me
 
 Things you may want to cover:
 
